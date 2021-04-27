@@ -5,6 +5,7 @@ public class Hello {
 		// TODO Auto-generated method stub
 		System.out.println(1000);
 		
+		
 	}
 
 }
@@ -15,4 +16,5 @@ public class Hello {
 		//4. 프로젝트 이름에서 우클릭-Team-Share Project
 		//5. 지역 레퍼지토리 설정
 		//6. 윈도우-show view-others-git staging
+		//7. 수정 시 저장 후 Push 반복
 		//뭐가 잇는디..
